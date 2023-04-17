@@ -1,4 +1,4 @@
-## Hi there👋, This is Jv Chrice P. Palomo, a 21 years old college student from San Enrique, iloilo. 
+## Hi there👋, This is Jv Chrice P. Palomo, a 21-year-old college student from San Enrique, iloilo. 
 
 <!--
 **xxjayvxx/xxjayvxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
